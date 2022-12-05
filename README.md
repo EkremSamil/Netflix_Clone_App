@@ -16,8 +16,4 @@ Netflix Originals & Trending
 
 For Mobile App
 
-![image](https://user-images.githubusercontent.com/63926513/205640867-aeb2a37c-c530-45ef-8e85-09cce61c035b.png)
-
-![image](https://user-images.githubusercontent.com/63926513/205640874-894c337b-9ad4-42b3-b1fc-d898aef44bf9.png)
-
-![image](https://user-images.githubusercontent.com/63926513/205640962-a9637cec-5472-470f-b378-4384b3df525a.png)
+<img src="https://user-images.githubusercontent.com/63926513/205640867-aeb2a37c-c530-45ef-8e85-09cce61c035b.png" width="275" hspace="20"/> <img src="https://user-images.githubusercontent.com/63926513/205640874-894c337b-9ad4-42b3-b1fc-d898aef44bf9.png" width="260" hspace="20"/>  <img src="https://user-images.githubusercontent.com/63926513/205640962-a9637cec-5472-470f-b378-4384b3df525a.png" width="265" hspace="20"/>
